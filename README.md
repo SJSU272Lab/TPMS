@@ -45,11 +45,12 @@ a) We choose RDS as our database to store sensor data. AWS Relational Database S
 b) Enterprise Computing Platform: Eclipse
 We write the backend of the project in Java language, front-end in Html, css and javascript. We use Eclipse as our computing platform.
 
-
+![image](https://cloud.githubusercontent.com/assets/22584180/21253736/992f25ce-c315-11e6-82ff-c8db7d21d9b9.png)
  
 
 c)  front end design: HTML, CSS, Bootstrap, jQuery
 
+![image](https://cloud.githubusercontent.com/assets/22584180/21253753/bfcee41c-c315-11e6-94fd-13752267b9df.png)
 
 
 
@@ -92,6 +93,10 @@ As a car owner, I can receive notifications for lower tyre pressure and inform a
 #FLOW DIAGRAM
 
 
+![image](https://cloud.githubusercontent.com/assets/22584180/21253769/d966796c-c315-11e6-8e30-aca6811b3ea0.png)
+
+
+
 
 Above diagram shows the complete flow of data in the application. 
 Virtual Sensors try to monitors the tyre pressure and once the pressure reduces below certain value, the notification is sent to the driver on his mobile application.
@@ -100,11 +105,11 @@ He also will be able to track down the sensors using web application. He will be
 
 We have used AWS RD5 service for storing the user database.
 
-
+![image](https://cloud.githubusercontent.com/assets/22584180/21253800/0fda6486-c316-11e6-9949-2474eaba1327.png)
 
 
 #SEQUENCE DIAGRAM
-
+![image](https://cloud.githubusercontent.com/assets/22584180/21253820/341fd5a6-c316-11e6-8579-237852d56f92.png)
 
 #DATABASE DESIGN
 Tables
