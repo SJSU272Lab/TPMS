@@ -268,6 +268,7 @@ sensor_id
 varchar
 255
 Foreign key
+
 temp
 int
 11
@@ -320,7 +321,7 @@ no
 #MOBILE APPLICATION SCREENSHOTS
 
 
-
+![image](https://cloud.githubusercontent.com/assets/22584180/21253891/b3d8548a-c316-11e6-8c5f-2650b29bad9f.png)  ![image](https://cloud.githubusercontent.com/assets/22584180/21253899/bbc4987a-c316-11e6-8864-355e33aaf8fc.png)
 
 
 
@@ -345,7 +346,18 @@ no
 
 #WEB-APPLCATION
  
- 
+ ![image](https://cloud.githubusercontent.com/assets/22584180/21253965/1743b8fc-c317-11e6-9474-9dd0bf820358.png)
+
+
+![image](https://cloud.githubusercontent.com/assets/22584180/21253973/20de3a72-c317-11e6-9c81-598d367896cf.png)
+
+
+![image](https://cloud.githubusercontent.com/assets/22584180/21253977/27c83342-c317-11e6-9da1-f46232c90b95.png)
+
+
+
+![image](https://cloud.githubusercontent.com/assets/22584180/21253985/34c77bb6-c317-11e6-9c29-a7605af0fa01.png)
+
  
  
   
