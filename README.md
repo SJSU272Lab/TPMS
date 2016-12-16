@@ -1,3 +1,4 @@
+
 #Fall16Team-1
 #TPMS - CMPE 272 GROUP PROJECT UNDER THE GUIDANCE OF PROF.RAKESH RANJAN
 Tyre Pressure Monitoring System using Internet of Things.
@@ -39,7 +40,7 @@ Hardware: Raspberry Pi, Pressure Sensors
 Database Service: AWS RDS
 a) We choose RDS as our database to store sensor data. AWS Relational Database Service (RDS) is a web based database which works as a relation database system.
  
- 
+ ![image](https://cloud.githubusercontent.com/assets/22584180/21253687/61364bca-c315-11e6-9ab2-8c6849b1dbf4.png)
 
 b) Enterprise Computing Platform: Eclipse
 We write the backend of the project in Java language, front-end in Html, css and javascript. We use Eclipse as our computing platform.
